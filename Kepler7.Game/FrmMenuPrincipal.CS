@@ -72,7 +72,7 @@ namespace Kepler7.Game
 
         private void btnNuevaPartida_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show(this, "Se borrará el progreso actual. ¿Continuar?", "Nueva partida",
+            if (MessageBox.Show(this, "Se borrara el progreso actual. ¿Continuar?", "Nueva partida",
                                 MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 Sesion.NuevaPartida();

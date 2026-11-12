@@ -30,7 +30,7 @@ namespace Kepler7.Game
 
             if (Progreso.Victoria)
             {
-                MessageBox.Show(area, "¡Dominaste los 12 patrones! Kepler-7 está a salvo.", "VICTORIA",
+                MessageBox.Show(area, "¡Dominaste los 12 patrones! Kepler-7 está a salvo", "VICTORIA",
                                 MessageBoxButtons.OK, MessageBoxIcon.Information);
                 area.DialogResult = DialogResult.Abort;  
             }

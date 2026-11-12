@@ -44,9 +44,9 @@
             // 
             // lblTitulo
             // 
-            this.lblTitulo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Segoe UI", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitulo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.lblTitulo.Location = new System.Drawing.Point(16, 12);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(201, 54);
@@ -55,8 +55,8 @@
             // 
             // lblSubtitulo
             // 
-            this.lblSubtitulo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(140)))), ((int)(((byte)(170)))));
             this.lblSubtitulo.AutoSize = true;
+            this.lblSubtitulo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(140)))), ((int)(((byte)(170)))));
             this.lblSubtitulo.Location = new System.Drawing.Point(18, 54);
             this.lblSubtitulo.Name = "lblSubtitulo";
             this.lblSubtitulo.Size = new System.Drawing.Size(404, 28);
@@ -70,17 +70,18 @@
             this.lblIntegrantes.Name = "lblIntegrantes";
             this.lblIntegrantes.Size = new System.Drawing.Size(484, 40);
             this.lblIntegrantes.TabIndex = 3;
-            this.lblIntegrantes.Text = "Integrantes: Agustina Torres, Ariana Campos";
+            this.lblIntegrantes.Text = "Integrantes: Agustina Torres, Ariana Campos, Tomas Garrote, Lautaro Martori, Ivan" +
+    " Paco";
             this.lblIntegrantes.Click += new System.EventHandler(this.lblIntegrantes_Click);
             // 
             // grpPartida
             // 
-            this.grpPartida.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.grpPartida.Controls.Add(this.btnRecorrido);
             this.grpPartida.Controls.Add(this.btnTutorial);
             this.grpPartida.Controls.Add(this.btnLogros);
             this.grpPartida.Controls.Add(this.btnNuevaPartida);
             this.grpPartida.Controls.Add(this.lblProgreso);
+            this.grpPartida.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.grpPartida.Location = new System.Drawing.Point(16, 125);
             this.grpPartida.Name = "grpPartida";
             this.grpPartida.Size = new System.Drawing.Size(488, 170);
@@ -101,6 +102,7 @@
             this.btnRecorrido.Size = new System.Drawing.Size(464, 36);
             this.btnRecorrido.TabIndex = 0;
             this.btnRecorrido.Text = "Iniciar recorrido";
+            this.btnRecorrido.UseVisualStyleBackColor = false;
             this.btnRecorrido.Click += new System.EventHandler(this.btnRecorrido_Click);
             // 
             // btnTutorial
@@ -116,6 +118,7 @@
             this.btnTutorial.Size = new System.Drawing.Size(150, 32);
             this.btnTutorial.TabIndex = 1;
             this.btnTutorial.Text = "Tutorial";
+            this.btnTutorial.UseVisualStyleBackColor = false;
             this.btnTutorial.Click += new System.EventHandler(this.btnTutorial_Click);
             // 
             // btnLogros
@@ -131,6 +134,7 @@
             this.btnLogros.Size = new System.Drawing.Size(150, 32);
             this.btnLogros.TabIndex = 2;
             this.btnLogros.Text = "Logros";
+            this.btnLogros.UseVisualStyleBackColor = false;
             this.btnLogros.Click += new System.EventHandler(this.btnLogros_Click);
             // 
             // btnNuevaPartida
@@ -146,12 +150,13 @@
             this.btnNuevaPartida.Size = new System.Drawing.Size(150, 32);
             this.btnNuevaPartida.TabIndex = 3;
             this.btnNuevaPartida.Text = "Nueva partida";
+            this.btnNuevaPartida.UseVisualStyleBackColor = false;
             this.btnNuevaPartida.Click += new System.EventHandler(this.btnNuevaPartida_Click);
             // 
             // lblProgreso
             // 
-            this.lblProgreso.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(230)))), ((int)(((byte)(255)))));
             this.lblProgreso.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblProgreso.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(230)))), ((int)(((byte)(255)))));
             this.lblProgreso.Location = new System.Drawing.Point(12, 120);
             this.lblProgreso.Name = "lblProgreso";
             this.lblProgreso.Size = new System.Drawing.Size(464, 30);
@@ -171,6 +176,7 @@
             this.btnSalir.Size = new System.Drawing.Size(488, 32);
             this.btnSalir.TabIndex = 1;
             this.btnSalir.Text = "Salir";
+            this.btnSalir.UseVisualStyleBackColor = false;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // lblEstado
@@ -183,10 +189,9 @@
             // 
             // FrmMenuPrincipal
             // 
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(14)))), ((int)(((byte)(28)))));
-            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(230)))), ((int)(((byte)(255)))));
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 28F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(14)))), ((int)(((byte)(28)))));
             this.ClientSize = new System.Drawing.Size(520, 380);
             this.Controls.Add(this.lblEstado);
             this.Controls.Add(this.btnSalir);
@@ -195,6 +200,7 @@
             this.Controls.Add(this.lblSubtitulo);
             this.Controls.Add(this.lblTitulo);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(230)))), ((int)(((byte)(255)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "FrmMenuPrincipal";
