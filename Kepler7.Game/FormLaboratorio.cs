@@ -34,7 +34,7 @@ namespace Kepler7.Game
         {
             if (_clon == null)
             {
-                lblPrueba.Text = "Primero clona al tripulante.";
+                lblPrueba.Text = "Primero clona al tripulante";
                 return;
             }
             if (txtHabilidad.Text.Trim() == "") return;
@@ -42,7 +42,7 @@ namespace Kepler7.Game
             _clon.Habilidades.Add(txtHabilidad.Text);
             Mostrar();
 
-            lblPrueba.Text = "Se modifico el clon y el original no cambió: la copia es independiente.";
+            lblPrueba.Text = "Se modifico el clon y el original no cambio: la copia es independiente";
             Sesion.Dominar(this, "Prototype");
         }
 

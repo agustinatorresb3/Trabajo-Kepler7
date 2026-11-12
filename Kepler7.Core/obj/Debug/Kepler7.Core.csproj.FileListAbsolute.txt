@@ -13,3 +13,6 @@ C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Cor
 C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Core.csproj.CoreCompileInputs.cache
 C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Core.dll
 C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Core.pdb
+C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\bin\Debug\Kepler7.Core.dll.config
+C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\bin\Debug\Kepler7.Core.dll
+C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\bin\Debug\Kepler7.Core.pdb
