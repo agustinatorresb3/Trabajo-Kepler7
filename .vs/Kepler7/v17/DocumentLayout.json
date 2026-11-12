@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\juego\\progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\juego\\progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\juego\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\juego\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\juego\\progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\juego\\progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\proxy\\iboveda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\proxy\\iboveda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\proxy\\iboveda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,19 +39,19 @@
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\flyweight\\tripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\flyweight\\tripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\flyweight\\tripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\flyweight\\fabricaespecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\flyweight\\fabricaespecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\flyweight\\fabricaespecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\flyweight\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\flyweight\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\flyweight\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\bridge\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\bridge\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\bridge\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,11 +67,11 @@
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmcontrolcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\facade\\controlcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\facade\\controlcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\facade\\controlcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\facade\\subsistemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\facade\\subsistemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\facade\\subsistemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -79,11 +79,11 @@
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\prototype\\prototipotripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\prototype\\prototipotripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\prototype\\prototipotripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\prototype\\iprototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\prototype\\iprototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\prototype\\iprototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -91,19 +91,19 @@
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\builder\\navebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\builder\\navebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\builder\\navebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\builder\\ingenierojefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\builder\\ingenierojefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\builder\\ingenierojefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\builder\\inavebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\builder\\inavebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\builder\\inavebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\builder\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\builder\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\builder\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -111,7 +111,7 @@
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmconstructornaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.game\\frmconstructornaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\frmconstructornaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmconstructornaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -162,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -182,8 +182,7 @@
               "RelativeToolTip": "Kepler7.Core\\Proxy\\IBoveda.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T13:11:16.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T13:11:16.111Z"
             },
             {
               "$type": "Document",
@@ -194,8 +193,7 @@
               "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormComunicaciones.cs [Dise\u00F1o]",
               "RelativeToolTip": "Kepler7.Game\\FormComunicaciones.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T16:59:43.754Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-11-11T16:59:43.754Z"
             },
             {
               "$type": "Document",
@@ -207,25 +205,24 @@
               "RelativeToolTip": "Kepler7.Game\\FormLaboratorio.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:28:22.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T17:28:22.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BaseDatos.cs",
               "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Core\\Juego\\BaseDatos.cs",
               "RelativeDocumentMoniker": "Kepler7.Core\\Juego\\BaseDatos.cs",
               "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Core\\Juego\\BaseDatos.cs",
               "RelativeToolTip": "Kepler7.Core\\Juego\\BaseDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAADxAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T18:15:24.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Progreso.cs",
               "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Core\\Juego\\Progreso.cs",
               "RelativeDocumentMoniker": "Kepler7.Core\\Juego\\Progreso.cs",
@@ -246,8 +243,7 @@
               "RelativeToolTip": "Kepler7.Game\\Ui.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T03:15:35.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T03:15:35.172Z"
             },
             {
               "$type": "Document",
@@ -259,8 +255,7 @@
               "RelativeToolTip": "Kepler7.Game\\Sesion.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T03:15:39.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T03:15:39.792Z"
             },
             {
               "$type": "Document",
@@ -271,8 +266,7 @@
               "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormLaboratorio.cs [Dise\u00F1o]",
               "RelativeToolTip": "Kepler7.Game\\FormLaboratorio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T16:59:45.06Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-11-11T16:59:45.06Z"
             },
             {
               "$type": "Document",
@@ -284,8 +278,7 @@
               "RelativeToolTip": "Kepler7.Core\\Flyweight\\Tripulante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T12:57:03.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T12:57:03.018Z"
             },
             {
               "$type": "Document",
@@ -297,8 +290,7 @@
               "RelativeToolTip": "Kepler7.Core\\Flyweight\\FabricaEspecies.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T12:56:46.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T12:56:46.483Z"
             },
             {
               "$type": "Document",
@@ -310,8 +302,7 @@
               "RelativeToolTip": "Kepler7.Game\\FormComunicaciones.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:28:14.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T17:28:14.389Z"
             },
             {
               "$type": "Document",
@@ -323,8 +314,7 @@
               "RelativeToolTip": "Kepler7.Core\\Flyweight\\Especie.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T12:55:29.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T12:55:29.44Z"
             },
             {
               "$type": "Document",
@@ -336,8 +326,7 @@
               "RelativeToolTip": "Kepler7.Core\\Bridge\\Mensaje.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T12:50:53.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T12:50:53.322Z"
             },
             {
               "$type": "Document",
@@ -349,8 +338,7 @@
               "RelativeToolTip": "Kepler7.Game\\FrmControlCentral.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T03:19:11.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T03:19:11.914Z"
             },
             {
               "$type": "Document",
@@ -362,8 +350,7 @@
               "RelativeToolTip": "Kepler7.Core\\Bridge\\ICifrado.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:23:20.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T17:23:20.245Z"
             },
             {
               "$type": "Document",
@@ -374,8 +361,7 @@
               "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmControlCentral.cs [Dise\u00F1o]",
               "RelativeToolTip": "Kepler7.Game\\FrmControlCentral.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:26:50.476Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-11-11T17:26:50.476Z"
             },
             {
               "$type": "Document",
@@ -387,8 +373,7 @@
               "RelativeToolTip": "Kepler7.Core\\Facade\\ControlCentral.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAwwDMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T12:32:00.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T12:32:00.8Z"
             },
             {
               "$type": "Document",
@@ -400,8 +385,7 @@
               "RelativeToolTip": "Kepler7.Core\\Facade\\SubSistemas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T12:32:02.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T12:32:02.529Z"
             },
             {
               "$type": "Document",
@@ -412,8 +396,7 @@
               "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormPersonaje.cs [Dise\u00F1o]",
               "RelativeToolTip": "Kepler7.Game\\FormPersonaje.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:16:14.433Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-11-11T17:16:14.433Z"
             },
             {
               "$type": "Document",
@@ -425,8 +408,7 @@
               "RelativeToolTip": "Kepler7.Core\\Prototype\\PrototipoTripulante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T12:04:30.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T12:04:30.059Z"
             },
             {
               "$type": "Document",
@@ -438,8 +420,7 @@
               "RelativeToolTip": "Kepler7.Core\\Prototype\\IPrototipo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T12:04:03.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T12:04:03.919Z"
             },
             {
               "$type": "Document",
@@ -450,8 +431,7 @@
               "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormBatalla.cs [Dise\u00F1o]",
               "RelativeToolTip": "Kepler7.Game\\FormBatalla.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T16:59:41.775Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-11-11T16:59:41.775Z"
             },
             {
               "$type": "Document",
@@ -463,8 +443,7 @@
               "RelativeToolTip": "Kepler7.Core\\Builder\\NaveBuilder.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T11:39:03.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T11:39:03.38Z"
             },
             {
               "$type": "Document",
@@ -476,8 +455,7 @@
               "RelativeToolTip": "Kepler7.Core\\Builder\\IngenieroJefe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T11:40:52.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T11:40:52.215Z"
             },
             {
               "$type": "Document",
@@ -489,8 +467,7 @@
               "RelativeToolTip": "Kepler7.Core\\Builder\\INaveBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T11:38:03.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T11:38:03.514Z"
             },
             {
               "$type": "Document",
@@ -502,8 +479,7 @@
               "RelativeToolTip": "Kepler7.Core\\Builder\\Nave.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T11:38:09.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T11:38:09.061Z"
             },
             {
               "$type": "Document",
@@ -515,8 +491,7 @@
               "RelativeToolTip": "Kepler7.Game\\FrmConstructorNaves.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T03:19:20.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T03:19:20.002Z"
             },
             {
               "$type": "Document",
@@ -527,8 +502,7 @@
               "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmConstructorNaves.cs [Dise\u00F1o]",
               "RelativeToolTip": "Kepler7.Game\\FrmConstructorNaves.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:27:00.381Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-11-11T17:27:00.381Z"
             },
             {
               "$type": "Document",
@@ -621,8 +595,7 @@
               "RelativeToolTip": "Kepler7.Game\\FormBatalla.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAowHkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:27:48.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T17:27:48.22Z"
             },
             {
               "$type": "Document",
@@ -645,8 +618,7 @@
               "RelativeToolTip": "Kepler7.Game\\FormBatalla.Designer.cs",
               "ViewState": "AgIAAKUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:17:37.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T17:17:37.889Z"
             }
           ]
         }
