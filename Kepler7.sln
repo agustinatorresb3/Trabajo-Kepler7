@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kepler7.Game", "Kepler7.Game\Kepler7.Game.csproj", "{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kepler7.Core", "Kepler7.Core\Kepler7.Core.csproj", "{F0F14B90-A064-49EA-BB4E-43C17F711229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F14B90-A064-49EA-BB4E-43C17F711229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F14B90-A064-49EA-BB4E-43C17F711229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F14B90-A064-49EA-BB4E-43C17F711229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F14B90-A064-49EA-BB4E-43C17F711229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C780319-B735-49FA-AD32-5C6A4D4E50B5}
+	EndGlobalSection
+EndGlobal

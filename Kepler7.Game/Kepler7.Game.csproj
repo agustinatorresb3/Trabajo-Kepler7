@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kepler7.Game</RootNamespace>
+    <AssemblyName>Kepler7.Game</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmMenuPrincipal.CS">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuPrincipal.Designer.CS">
+      <DependentUpon>FrmMenuPrincipal.CS</DependentUpon>
+    </Compile>
+    <Compile Include="FrmControlCentral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmControlCentral.Designer.cs">
+      <DependentUpon>FrmControlCentral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConstructorNaves.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConstructorNaves.Designer.cs">
+      <DependentUpon>FrmConstructorNaves.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSimuladorIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSimuladorIA.Designer.cs">
+      <DependentUpon>FrmSimuladorIA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBatalla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBatalla.Designer.cs">
+      <DependentUpon>FormBatalla.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormBatalla.resx">
+      <DependentUpon>FormBatalla.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="FormComunicaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormComunicaciones.Designer.cs">
+      <DependentUpon>FormComunicaciones.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormComunicaciones.resx">
+      <DependentUpon>FormComunicaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="FormLaboratorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLaboratorio.Designer.cs">
+      <DependentUpon>FormLaboratorio.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormLaboratorio.resx">
+      <DependentUpon>FormLaboratorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="FormPersonaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPersonaje.Designer.cs">
+      <DependentUpon>FormPersonaje.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormPersonaje.resx">
+      <DependentUpon>FormPersonaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="FormResumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormResumen.Designer.cs">
+      <DependentUpon>FormResumen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormResumen.resx">
+      <DependentUpon>FormResumen.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="FormTutorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTutorial.Designer.cs">
+      <DependentUpon>FormTutorial.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormTutorial.resx">
+      <DependentUpon>FormTutorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Sesion.cs" />
+    <Compile Include="Ui.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmConstructorNaves.resx">
+      <DependentUpon>FrmConstructorNaves.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmControlCentral.resx">
+      <DependentUpon>FrmControlCentral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuPrincipal.resx">
+      <DependentUpon>FrmMenuPrincipal.CS</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSimuladorIA.resx">
+      <DependentUpon>FrmSimuladorIA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Kepler7.Core\Kepler7.Core.csproj">
+      <Project>{F0F14B90-A064-49EA-BB4E-43C17F711229}</Project>
+      <Name>Kepler7.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
