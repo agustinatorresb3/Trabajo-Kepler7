@@ -7,3 +7,9 @@ C:\Users\Usuario\Desktop\Kepler-7\Kepler-7\Kepler7.Core\obj\Debug\Kepler7.Core.c
 C:\Users\Usuario\Desktop\Kepler-7\Kepler-7\Kepler7.Core\obj\Debug\Kepler7.Core.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\Kepler-7\Kepler-7\Kepler7.Core\obj\Debug\Kepler7.Core.dll
 C:\Users\Usuario\Desktop\Kepler-7\Kepler-7\Kepler7.Core\obj\Debug\Kepler7.Core.pdb
+C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Core.csproj.AssemblyReference.cache
+C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Core.Properties.Resources.resources
+C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Core.csproj.GenerateResource.cache
+C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Core.csproj.CoreCompileInputs.cache
+C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Core.dll
+C:\Users\Aru\OneDrive\Desktop\Trabajo-Kepler7\Kepler7.Core\obj\Debug\Kepler7.Core.pdb

@@ -1,77 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\",
+  "WorkspaceRootPath": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\usuario\\desktop\\kepler-7\\kepler-7\\kepler7.core\\juego\\progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\juego\\progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.game\\formtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\usuario\\desktop\\kepler-7\\kepler-7\\kepler7.core\\juego\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\juego\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|c:\\users\\usuario\\desktop\\kepler-7\\kepler-7\\kepler7.game\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\formlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\formlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\formcomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formcomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\formcomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formcomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\frmsimuladoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmsimuladoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\formpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\formresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\formtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\frmconstructornaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.game\\frmconstructornaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmconstructornaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\frmconstructornaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmconstructornaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\frmcontrolcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.game\\frmcontrolcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmcontrolcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\frmcontrolcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmcontrolcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.core\\bridge\\icifrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\juego\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\juego\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.game\\frmsimuladoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmsimuladoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\frmsimuladoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\frmsimuladoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.game\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.game\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|c:\\users\\aru\\onedrive\\desktop\\trabajo-kepler7\\kepler7.core\\juego\\progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\juego\\progreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formcomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formcomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formcomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formcomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.core\\bridge\\icifrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F14B90-A064-49EA-BB4E-43C17F711229}|Kepler7.Core\\Kepler7.Core.csproj|solutionrelative:kepler7.core\\bridge\\icifrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\kepler7.game\\formbatalla.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\kepler7.game\\formbatalla.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E337BA3F-D6B6-4D64-B0B5-DD59C0E4249B}|Kepler7.Game\\Kepler7.Game.csproj|solutionrelative:kepler7.game\\formbatalla.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,15 +110,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormTutorial.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormTutorial.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FormTutorial.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormTutorial.cs",
+              "RelativeToolTip": "Kepler7.Game\\FormTutorial.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:19:25.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmConstructorNaves.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmConstructorNaves.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FrmConstructorNaves.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmConstructorNaves.cs",
+              "RelativeToolTip": "Kepler7.Game\\FrmConstructorNaves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:19:20.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmControlCentral.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmControlCentral.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FrmControlCentral.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmControlCentral.cs",
+              "RelativeToolTip": "Kepler7.Game\\FrmControlCentral.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:19:11.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMenuPrincipal.CS [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmMenuPrincipal.CS",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FrmMenuPrincipal.CS",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmMenuPrincipal.CS [Dise\u00F1o]",
+              "RelativeToolTip": "Kepler7.Game\\FrmMenuPrincipal.CS [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T17:27:14.273Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Core\\Juego\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "Kepler7.Core\\Juego\\BaseDatos.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Core\\Juego\\BaseDatos.cs",
+              "RelativeToolTip": "Kepler7.Core\\Juego\\BaseDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAADrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T18:15:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTutorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormTutorial.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FormTutorial.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormTutorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Kepler7.Game\\FormTutorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:59:47.771Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMenuPrincipal.CS",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmMenuPrincipal.CS",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FrmMenuPrincipal.CS",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmMenuPrincipal.CS",
+              "RelativeToolTip": "Kepler7.Game\\FrmMenuPrincipal.CS",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwEoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T17:27:17.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmConstructorNaves.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmConstructorNaves.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FrmConstructorNaves.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmConstructorNaves.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Kepler7.Game\\FrmConstructorNaves.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T17:27:00.381Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmSimuladorIA.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmSimuladorIA.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FrmSimuladorIA.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmSimuladorIA.cs",
+              "RelativeToolTip": "Kepler7.Game\\FrmSimuladorIA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:15:54.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmControlCentral.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmControlCentral.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FrmControlCentral.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmControlCentral.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Kepler7.Game\\FrmControlCentral.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T17:26:50.476Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\Program.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\Program.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\Program.cs",
+              "RelativeToolTip": "Kepler7.Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:15:48.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\Sesion.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\Sesion.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\Sesion.cs",
+              "RelativeToolTip": "Kepler7.Game\\Sesion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:15:39.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ui.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\Ui.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\Ui.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\Ui.cs",
+              "RelativeToolTip": "Kepler7.Game\\Ui.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:15:35.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Progreso.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Core\\Juego\\Progreso.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Core\\Juego\\Progreso.cs",
               "RelativeDocumentMoniker": "Kepler7.Core\\Juego\\Progreso.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Core\\Juego\\Progreso.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Core\\Juego\\Progreso.cs",
               "RelativeToolTip": "Kepler7.Core\\Juego\\Progreso.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,36 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Core\\Juego\\BaseDatos.cs",
-              "RelativeDocumentMoniker": "Kepler7.Core\\Juego\\BaseDatos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Core\\Juego\\BaseDatos.cs",
-              "RelativeToolTip": "Kepler7.Core\\Juego\\BaseDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T18:15:24.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormLaboratorio.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormLaboratorio.cs",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FormLaboratorio.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormLaboratorio.cs",
-              "RelativeToolTip": "Kepler7.Game\\FormLaboratorio.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAmwCIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:28:22.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "FormComunicaciones.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormComunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormComunicaciones.cs",
               "RelativeDocumentMoniker": "Kepler7.Game\\FormComunicaciones.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormComunicaciones.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormComunicaciones.cs",
               "RelativeToolTip": "Kepler7.Game\\FormComunicaciones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,146 +312,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormBatalla.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormBatalla.cs",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FormBatalla.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormBatalla.cs",
-              "RelativeToolTip": "Kepler7.Game\\FormBatalla.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAowHkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:27:48.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmMenuPrincipal.CS",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmMenuPrincipal.CS",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FrmMenuPrincipal.CS",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmMenuPrincipal.CS",
-              "RelativeToolTip": "Kepler7.Game\\FrmMenuPrincipal.CS",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwGcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:27:17.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmMenuPrincipal.CS [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmMenuPrincipal.CS",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FrmMenuPrincipal.CS",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmMenuPrincipal.CS [Dise\u00F1o]",
-              "RelativeToolTip": "Kepler7.Game\\FrmMenuPrincipal.CS [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:27:14.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormPersonaje.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormPersonaje.cs",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FormPersonaje.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormPersonaje.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Kepler7.Game\\FormPersonaje.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:16:14.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormLaboratorio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormLaboratorio.cs",
+              "DocumentIndex": 17,
+              "Title": "FormLaboratorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormLaboratorio.cs",
               "RelativeDocumentMoniker": "Kepler7.Game\\FormLaboratorio.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormLaboratorio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Kepler7.Game\\FormLaboratorio.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormLaboratorio.cs",
+              "RelativeToolTip": "Kepler7.Game\\FormLaboratorio.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwCIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T16:59:45.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormBatalla.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormBatalla.cs",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FormBatalla.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormBatalla.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Kepler7.Game\\FormBatalla.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T16:59:41.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FormResumen.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormResumen.cs",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FormResumen.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormResumen.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Kepler7.Game\\FormResumen.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T16:59:46.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormComunicaciones.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormComunicaciones.cs",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FormComunicaciones.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormComunicaciones.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Kepler7.Game\\FormComunicaciones.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T16:59:43.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FormTutorial.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormTutorial.cs",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FormTutorial.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormTutorial.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Kepler7.Game\\FormTutorial.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T16:59:47.771Z"
+              "WhenOpened": "2026-11-11T17:28:22.801Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FrmSimuladorIA.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmSimuladorIA.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmSimuladorIA.cs",
               "RelativeDocumentMoniker": "Kepler7.Game\\FrmSimuladorIA.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmSimuladorIA.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FrmSimuladorIA.cs [Dise\u00F1o]",
               "RelativeToolTip": "Kepler7.Game\\FrmSimuladorIA.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:26:49.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FrmConstructorNaves.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmConstructorNaves.cs",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FrmConstructorNaves.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmConstructorNaves.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Kepler7.Game\\FrmConstructorNaves.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:27:00.381Z"
+              "WhenOpened": "2026-11-11T17:26:49.467Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "FrmControlCentral.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmControlCentral.cs",
-              "RelativeDocumentMoniker": "Kepler7.Game\\FrmControlCentral.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FrmControlCentral.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Kepler7.Game\\FrmControlCentral.cs [Dise\u00F1o]",
+              "Title": "FormBatalla.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormBatalla.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FormBatalla.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormBatalla.cs",
+              "RelativeToolTip": "Kepler7.Game\\FormBatalla.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowHkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T17:26:50.476Z"
+              "WhenOpened": "2026-11-11T17:27:48.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormPersonaje.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormPersonaje.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FormPersonaje.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormPersonaje.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormPersonaje.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T17:16:14.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormLaboratorio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormLaboratorio.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FormLaboratorio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormLaboratorio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormLaboratorio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:59:45.06Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "FormBatalla.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormBatalla.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FormBatalla.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormBatalla.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormBatalla.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:59:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormResumen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormResumen.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FormResumen.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormResumen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormResumen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:59:46.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormComunicaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormComunicaciones.cs",
+              "RelativeDocumentMoniker": "Kepler7.Game\\FormComunicaciones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormComunicaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormComunicaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:59:43.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ICifrado.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Core\\Bridge\\ICifrado.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Core\\Bridge\\ICifrado.cs",
               "RelativeDocumentMoniker": "Kepler7.Core\\Bridge\\ICifrado.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Core\\Bridge\\ICifrado.cs",
+              "ToolTip": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Core\\Bridge\\ICifrado.cs",
               "RelativeToolTip": "Kepler7.Core\\Bridge\\ICifrado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,12 +415,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "FormBatalla.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormBatalla.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aru\\OneDrive\\Desktop\\Trabajo-Kepler7\\Kepler7.Game\\FormBatalla.Designer.cs",
               "RelativeDocumentMoniker": "Kepler7.Game\\FormBatalla.Designer.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormBatalla.Designer.cs*",
-              "RelativeToolTip": "Kepler7.Game\\FormBatalla.Designer.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Desktop\\Kepler-7\\Kepler-7\\Kepler7.Game\\FormBatalla.Designer.cs*",
               "ViewState": "AgIAAKUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T17:17:37.889Z"
